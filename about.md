@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+2011 was a phenomenal first year for Rich Werk. Computers that Werk was able to triple its profits within the first six months of operation. The rapid growth was due in large part to good old-fashioned customer satisfaction; word of mouth advertising and client referrals comprised (and still comprise) the majority of new business. As new clients poured in, it became apparent that Computers That Werk was proving to be an excellent resource for a niche industry, water damage restoration. Computers that Werk helped clients use their websites to generate leads using the power of search engines such as Google, Yahoo and (at the time) MSN. Leads flooded the water damage companies (no pun intended) and Computers that Werk.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+In 2012, Rich quickly realized that people were calling him all of the time for advise day and night. Everyone that he knew told him that he should open his own business and stop working for another. After many thoughts, Rich did just that after!
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+2014 has been an exciting year for Computers that Werk. We have opened our new location in Fort Myers, FL. We are expanding dramatically in order to keep up with our customers demands.
