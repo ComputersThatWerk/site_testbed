@@ -17,4 +17,4 @@ In short, we can be your IT department at a fraction of the cost.
 + Launch and manage search engine optimization (SEO) campaigns
 + Train and instruct end users on proper technology use and policies
 
-One of the many things that separate us from others is our familiarity with not only **Windows and Apple OSX, but Linux** as well.   Ask us how we can help reduce your software license costs with free, open-source software!
+One of the many things that separate us from others is our familiarity with not only **Windows and Apple OSX, but Linux** as well. Ask us how we can help reduce your software license costs with free, open-source software!
